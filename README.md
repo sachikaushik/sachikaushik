@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# 💫 About Me:
+## 💫 Hi there👋 I am Sachii:
 🔭Developing scalable web applications with a focus on front-end and back-end integration.<br>👯 I’m looking to collaborate on exciting projects that involve cutting-edge technologies and challenge my development skills.<br>🤝 I’m looking for help with fine-tuning performance optimization strategies for large-scale applications.<br>🌱 I’m currently learning new front-end frameworks to enhance the user interface and user experience.<br>💬 Ask me about best practices in full-stack development and application architecture.<br>⚡ Fun fact: Did you know that I once built a mini e-commerce platform just for fun, and it ended up being used by a small local business?
 
 
